@@ -1,2 +1,2 @@
 # Theaterbuehne-Kicklingen
-A website about my theater group.
+A website, I`ve created for my theater group.
